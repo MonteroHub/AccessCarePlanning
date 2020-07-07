@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CarePlanning</string>
+    <string name="sign_in_problem">Unable to sign in, please try again or with a different account</string>
+    <string name="vibrate_time_start">Vibrate Time Start</string>
+    <string name="vibrate_time_end">Vibrate Time End</string>
+    <string name="select_start_time">Select Start Time</string>
+    <string name="select_end_time">Select End Time</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="invalid_qr_code">Invalid QR Code, please try again</string>
+    <string name="battery_threshold">Battery Saving Threshold</string>
+    <string name="notification_ringer">Ringer mode changed</string>
+    <string name="notification_wifi_on">Wifi enabled</string>
+    <string name="notification_wifi_off">Wifi disabled</string>
+    <string name="notification_power_saving">Power saving enabled</string>
+
+    <string name="default_notification_channel_id">default</string>
+
+</resources>
