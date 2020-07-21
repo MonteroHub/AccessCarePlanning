@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "598102492119-c6se3laoh599lbqubh54n8ihimrep3dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.access.careplanning",
+            "certificate_hash": "adcb166746df0715e43ea6e38ed1e631f755884b"
+          }
+        },
+        {
           "client_id": "598102492119-uelfs8ljo46u09lh5797kcjo5e76o18d.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -28,7 +36,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "598102492119-uelfs8ljo46u09lh5797kcjo5e76o18d.apps.googleusercontent.com",
+              "client_id": "598102492119-9rkuunmp1oqqmhfneu4bblgrcvvkotqj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
