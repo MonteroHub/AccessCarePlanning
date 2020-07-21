@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598102492119",
+    "firebase_url": "https://paul-f594a.firebaseio.com",
+    "project_id": "paul-f594a",
+    "storage_bucket": "paul-f594a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598102492119:android:c025dd3d4cece374b24192",
+        "android_client_info": {
+          "package_name": "com.access.careplanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598102492119-uelfs8ljo46u09lh5797kcjo5e76o18d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaZlUuwSEZTJKJoeTTyq0P5s2zhShQ_gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598102492119-uelfs8ljo46u09lh5797kcjo5e76o18d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
